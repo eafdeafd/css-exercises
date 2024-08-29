@@ -1,0 +1,17 @@
+p{
+    background-color: rgb(234, 135, 184);
+    font-family: Verdana, "DejvaVu Sans", sans-serif;
+}
+.cool{
+    font-size: 24px;
+}
+
+#div1{
+    color:hsl(201, 91%, 63%);
+    font-size: 36px;
+}
+
+#div2{
+    background-color:rgb(158, 243, 158);
+    font-weight: bold;
+}
